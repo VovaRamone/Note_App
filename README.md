@@ -80,5 +80,5 @@
 ## Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами:
 
-- Email: your.phantasm4@yandex.ru
+- Email: phantasm4@yandex.ru
 - GitHub: VovaRamone
